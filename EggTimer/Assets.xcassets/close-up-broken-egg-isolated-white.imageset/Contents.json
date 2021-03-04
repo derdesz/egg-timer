@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "close-up-broken-egg-isolated-white.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "close-up-broken-egg-isolated-white@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "close-up-broken-egg-isolated-white@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
